@@ -144,7 +144,7 @@ SECTION BACK-WHITE
 }
 
 .row {
-    width: 1072px;
+    max-width: 1072px;
     margin: auto;
 }
 
@@ -177,4 +177,38 @@ SECTION BACK-WHITE
 
 .col-40 p {
     padding-top: 25px;
+}
+
+/*-------------
+SECTION BACK-GRAY
+-------------*/
+
+.back-green {
+    height: 1000px;
+}
+
+.green {
+    margin: auto;
+    max-width: 1072px;
+    height: 900px;
+} 
+.green p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#img-4 {
+    padding-left: 90px;
+}
+
+.green h3 {
+    text-align: center;
+}
+
+#stars {
+    padding-left: 260px;
+}
+
+h3 {
+    font-size: 30px;
 }
