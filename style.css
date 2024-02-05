@@ -108,7 +108,11 @@ h1 {text-align: center;
     margin-top: 30px;
 }
 
-p {
+h2 {
+    font-size: 35px;
+}
+
+.hero-par {
     text-align: center;
     margin-top: 50px;
 }
@@ -125,4 +129,52 @@ span {
 .b-image {
     background-image: url(./img/jumbo.png);
     background-size: 100% 100%;
+}
+
+/*-------------
+SECTION BACK-WHITE
+-------------*/
+
+.background {
+    height: 600px;
+}
+
+.back-white {
+    background-color: #ffffff;
+}
+
+.row {
+    width: 1072px;
+    margin: auto;
+}
+
+.row div {
+    height: 500px;
+}
+
+.col-60 {
+    width: 60%;
+}
+
+.col-40 {
+    width: 40%;
+}
+
+.back-gray {
+    background-color: #d3d3d3;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.col-40 p {
+    font-size: large;
+}
+.row .col-40 {
+    padding: 40px;
+}
+
+.col-40 p {
+    padding-top: 25px;
 }
