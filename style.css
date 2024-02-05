@@ -212,3 +212,14 @@ SECTION BACK-GRAY
 h3 {
     font-size: 30px;
 }
+
+.green button {
+    background-color: #8ea1e1;
+    color: white;
+}
+
+.green div {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
