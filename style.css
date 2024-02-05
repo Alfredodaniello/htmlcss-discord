@@ -213,13 +213,92 @@ h3 {
     font-size: 30px;
 }
 
-.green button {
-    background-color: #8ea1e1;
-    color: white;
-}
-
 .green div {
     padding-top: 40px;
     display: flex;
     justify-content: center;
 }
+
+/*-------------
+SECTION BACK-BLACK
+-------------*/
+
+.back-black {
+    height: 630px;
+    background-color: #23272a;
+    border-bottom: 2px solid white;
+}
+
+.row-5 {
+    margin: auto;
+    width: 1072px;
+}
+
+.row-5 div {
+    height: 575px;
+}
+
+.div-1 {
+    width: 50%;
+}
+
+.div-2 {
+    width: 20%;
+}
+
+/*-------------
+    FOOTER
+-------------*/
+
+footer {
+    justify-content: center;
+    align-items: end;
+    background-color: #23272a;
+    height: 105px;
+}
+
+.end {
+    justify-content: space-between;
+    width: 1072px;
+    height: 74px;
+}
+
+.last-b {
+    background-color: #8ea1e1;
+    color: white;
+}
+
+i {
+    color: #ffffff;
+}
+
+.div-1 h3 {
+    color: #7289da;
+}
+
+.div-1 span {
+    color: #ffffff;
+}
+
+.div-1 *{
+    margin-top: 15px;
+}
+
+.symbol *{
+ padding-right: 15px;
+}
+
+.div-2 li {
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+.div-2 * {
+    margin-top: 10px;
+}
+
+h4 {
+    padding-top: 16px;
+    color: #7289da;
+}
+
